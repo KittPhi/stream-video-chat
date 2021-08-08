@@ -12,6 +12,11 @@ We will not be using any front-end frameworks for this series, just vanilla Java
 2. `npm install`
 3. `node server.js`
 
+OPEN chrome at http://localhost:3000/
+
+1. Enter as Participant 1, room-one
+2. Enter as Participant 2, room-one
+
 ## Code of Conduct
 
 In the interest of fostering an open and welcoming environment, we strive to make participation in our project and our community a harassment-free experience for everyone. Please check out our [Code of Conduct][coc] in full.
@@ -26,10 +31,8 @@ We :heart: contributions from everyone! Check out the [Contributing Guidelines][
 
 This project is subject to the [MIT License][license]
 
-[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat "Contributions Welcome"
-
-[coc]: CODE_OF_CONDUCT.md "Code of Conduct"
-[contributing]: CONTRIBUTING.md "Contributing"
-[license]: LICENSE "MIT License"
-
-[issues]: ./../../issues "Issues"
+[contribadge]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat 'Contributions Welcome'
+[coc]: CODE_OF_CONDUCT.md 'Code of Conduct'
+[contributing]: CONTRIBUTING.md 'Contributing'
+[license]: LICENSE 'MIT License'
+[issues]: ./../../issues 'Issues'
